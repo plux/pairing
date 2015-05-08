@@ -1,0 +1,12 @@
+{application, pairing, [
+	{description, ""},
+	{vsn, git},
+	{id, "git"},
+	{modules, []},
+	{registered, []},
+	{applications, [
+		kernel,
+		stdlib
+	]},
+	{env, []}
+]}.
